@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "shroomId",
+    "slug": "shroomId",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "shroomId"
+}
